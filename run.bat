@@ -1,0 +1,1 @@
+start tcc.exe -LLib -lkernel32 -lpsapi -lws2_32 -w -run ./http/server.c
