@@ -1,7 +1,9 @@
 # C-WebTool
 
 git clone https://github.com/DOSexample/C-WEBTOOL
+
 cd C-WEBTOOL
+
 ./run
 
 https://github.com/TinyCC/tinycc
